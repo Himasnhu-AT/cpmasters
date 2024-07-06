@@ -12,7 +12,12 @@ module.exports = {
                 items: [
                     { text: "Home", link: "/" },
                     { text: "Installation", link: "/installation" },
-                    { text: "TO DO", link: "/todo" }
+                ]
+            },
+            {
+                text: "Development",
+                items: [
+                    { text: "Contributing", link: "/contributing.md" }
                 ]
             }
         ]
